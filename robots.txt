@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://wqnm1gb.github.io/sitemap.xml
