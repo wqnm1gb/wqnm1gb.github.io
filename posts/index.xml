@@ -9,10 +9,17 @@
       <url>https://wqnm1gb.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://wqnm1gb.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo -- 0.143.1</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 02 Jan 2025 21:31:07 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 12:44:36 +0800</lastBuildDate>
     <atom:link href="https://wqnm1gb.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My New Post</title>
+      <link>https://wqnm1gb.github.io/posts/my-new-post/</link>
+      <pubDate>Fri, 07 Feb 2025 12:44:36 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/my-new-post/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Day05 面向对象编程</title>
       <link>https://wqnm1gb.github.io/posts/day05-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/</link>
@@ -28,8 +35,7 @@
       <link>https://wqnm1gb.github.io/posts/testpicture/</link>
       <pubDate>Thu, 02 Jan 2025 21:31:07 +0800</pubDate>
       <guid>https://wqnm1gb.github.io/posts/testpicture/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://cdn.nlark.com/yuque/0/2024/png/28219979/1728611073038-cdcb6289-b485-4060-9727-8c3732d22bfe.png&#34; alt=&#34;&#34;  /&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://cdn.nlark.com/yuque/0/2024/png/28219979/1728611073038-cdcb6289-b485-4060-9727-8c3732d22bfe.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
