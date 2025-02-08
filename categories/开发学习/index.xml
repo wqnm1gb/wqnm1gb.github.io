@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>开发学习 on 三狗子的博客</title>
+    <link>https://wqnm1gb.github.io/categories/%E5%BC%80%E5%8F%91%E5%AD%A6%E4%B9%A0/</link>
+    <description>Recent content in 开发学习 on 三狗子的博客</description>
+    <image>
+      <title>三狗子的博客</title>
+      <url>https://wqnm1gb.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://wqnm1gb.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 08 Feb 2025 10:47:42 +0800</lastBuildDate>
+    <atom:link href="https://wqnm1gb.github.io/categories/%E5%BC%80%E5%8F%91%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day16 Java高级技术</title>
+      <link>https://wqnm1gb.github.io/posts/day16-java%E9%AB%98%E7%BA%A7%E6%8A%80%E6%9C%AF/</link>
+      <pubDate>Sat, 08 Feb 2025 10:47:42 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day16-java%E9%AB%98%E7%BA%A7%E6%8A%80%E6%9C%AF/</guid>
+      <description>&lt;h1 id=&#34;单元测试&#34;&gt;单元测试&lt;/h1&gt;
+&lt;p&gt;就是针对最小的功能单元：方法，编写测试代码对其进行正确性测试。&lt;/p&gt;
+&lt;p&gt;咱们之前是如何进行单元测试的？有啥问题？&lt;/p&gt;
+&lt;p&gt;• 只能在main方法编写测试代码，去调用其他方法进行测试。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day15 网络编程</title>
+      <link>https://wqnm1gb.github.io/posts/day15-%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</link>
+      <pubDate>Sat, 08 Feb 2025 10:47:03 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day15-%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</guid>
+      <description>&lt;h1 id=&#34;inetaddress类&#34;&gt;InetAddress类&lt;/h1&gt;
+&lt;p&gt;代表IP地址&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;!-- raw HTML omitted --&gt;InetAddress&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;类的常用方法&lt;!-- raw HTML omitted --&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;!-- raw HTML omitted --&gt;说明&lt;!-- raw HTML omitted --&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;public static &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;InetAddress &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;getLocalHost&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;() &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;throws &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;UnknownHostException&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;获取本机&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;IP&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;，返回一个&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;InetAddress&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;对象&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;public &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;String &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;getHostName&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;()&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;获取该&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;ip&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;地址对象对应的主机名。&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;public &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;String &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;getHostAddress&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;()&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;获取该&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;ip&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;地址对象中的&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;ip&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;地址信息。&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;public static &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;InetAddress &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;getByName&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;(&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;String host&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;)   &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;    &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;throws &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;UnknownHostException&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;根据&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;ip&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;地址或者域名，返回一个&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;inetAddress&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;对象&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;public boolean &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;isReachable&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;(&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;int &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;timeout&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;) &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;throws &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;IOException&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;判断主机在指定毫秒内与该&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;ip&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;对应的主机是否能连通&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;udp通信&#34;&gt;UDP通信&lt;/h1&gt;
+&lt;p&gt;特点：无连接、不可靠通信。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day14 Thread</title>
+      <link>https://wqnm1gb.github.io/posts/day14-thread/</link>
+      <pubDate>Sat, 08 Feb 2025 10:46:30 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day14-thread/</guid>
+      <description>&lt;h2 id=&#34;多线程&#34;&gt;多线程&lt;/h2&gt;
+&lt;p&gt;什么是线程？&lt;/p&gt;
+&lt;p&gt;线程（Thread）是一个程序内部的一条执行流程&lt;/p&gt;
+&lt;p&gt;程序中如果只有一条执行流程，那这个程序就是单线程的程序&lt;/p&gt;
+&lt;p&gt;多线程是指从软硬件上实现的多条执行流程的技术（多条线程由CPU负责调度执行）&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day13 File和IO流</title>
+      <link>https://wqnm1gb.github.io/posts/day13-file%E5%92%8Cio%E6%B5%81/</link>
+      <pubDate>Sat, 08 Feb 2025 10:45:56 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day13-file%E5%92%8Cio%E6%B5%81/</guid>
+      <description>&lt;h2 id=&#34;file&#34;&gt;File&lt;/h2&gt;
+&lt;p&gt;File是java.io.包下的类，File类的对象，用于代表当前操作系统的文件（可以是文件、或文件夹）&lt;/p&gt;
+&lt;p&gt;注意：File类&lt;!-- raw HTML omitted --&gt;只能对文件本身进行操作，不能读写文件里面存储的数据&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day12 Map、Stream流</title>
+      <link>https://wqnm1gb.github.io/posts/day12-mapstream%E6%B5%81/</link>
+      <pubDate>Sat, 08 Feb 2025 10:45:31 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day12-mapstream%E6%B5%81/</guid>
+      <description>&lt;h3 id=&#34;set系列集合添加的元素是font-stylebackground-colorfbde28无序不重复无索引font&#34;&gt;Set系列集合：添加的元素是&lt;!-- raw HTML omitted --&gt;无序、不重复、无索引&lt;!-- raw HTML omitted --&gt;&lt;/h3&gt;
+&lt;p&gt;HashSet： &lt;!-- raw HTML omitted --&gt;无序&lt;!-- raw HTML omitted --&gt;、不重复、无索引&lt;/p&gt;
+&lt;p&gt;LinkedHashSet： &lt;!-- raw HTML omitted --&gt;有序&lt;!-- raw HTML omitted --&gt;、不重复、无索引&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day11 异常、泛型和集合</title>
+      <link>https://wqnm1gb.github.io/posts/day11-%E5%BC%82%E5%B8%B8%E6%B3%9B%E5%9E%8B%E5%92%8C%E9%9B%86%E5%90%88/</link>
+      <pubDate>Sat, 08 Feb 2025 10:44:46 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day11-%E5%BC%82%E5%B8%B8%E6%B3%9B%E5%9E%8B%E5%92%8C%E9%9B%86%E5%90%88/</guid>
+      <description>&lt;h2 id=&#34;异常&#34;&gt;异常&lt;/h2&gt;
+&lt;h3 id=&#34;error&#34;&gt;Error&lt;/h3&gt;
+&lt;p&gt;Error 代表的系统级别错误（属于严重问题），也就是说系统一旦出现问题，sun公司会把这些问题封装成Error对象给出来（说白了，Error是给sun公司自己用的，不是给我们程序员用的，因此我们开发人员不用管它）&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day10 ArrayList集合</title>
+      <link>https://wqnm1gb.github.io/posts/day10-arraylist%E9%9B%86%E5%90%88/</link>
+      <pubDate>Sat, 08 Feb 2025 10:44:11 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day10-arraylist%E9%9B%86%E5%90%88/</guid>
+      <description>&lt;h2 id=&#34;arraylist集合&#34;&gt;ArrayList集合&lt;/h2&gt;
+&lt;p&gt;数组定义完成并且启动后，长度就固定了&lt;/p&gt;
+&lt;p&gt;集合大小可变，功能丰富，开发中用的更多&lt;/p&gt;
+&lt;p&gt;要用泛型定义集合&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;!-- raw HTML omitted --&gt;构造器&lt;!-- raw HTML omitted --&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;!-- raw HTML omitted --&gt;说明&lt;!-- raw HTML omitted --&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;public &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;ArrayList&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;()&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;创建一个空的集合对象&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;!-- raw HTML omitted --&gt;常用方法名&lt;!-- raw HTML omitted --&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;!-- raw HTML omitted --&gt;说明&lt;!-- raw HTML omitted --&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;public &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;boolean&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; add(E e)&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;将指定的元素添加到此集合的末尾&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;public void add(&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;int&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;index,E&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; element)&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;在此集合中的指定位置插入指定的元素&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;public E get(&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;int&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; index)&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;返回指定索引处的元素&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;public &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;int&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; size()&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;返回集合中的元素的个数&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;public E remove(&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;int&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; index)&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;删除指定索引处的元素，返回被删除的元素&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;public &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;boolean&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; remove(Object o)&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;删除指定的元素，返回删除是否成功&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;public E set(&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;int&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;index,E&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; element)&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;修改指定索引处的元素，返回被修改的元素&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Day09 函数式编程、方法引用和String类</title>
+      <link>https://wqnm1gb.github.io/posts/day09-%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E5%BC%95%E7%94%A8%E5%92%8Cstring%E7%B1%BB/</link>
+      <pubDate>Sat, 08 Feb 2025 10:43:35 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day09-%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E5%BC%95%E7%94%A8%E5%92%8Cstring%E7%B1%BB/</guid>
+      <description>&lt;h2 id=&#34;函数式编程&#34;&gt;函数式编程&lt;/h2&gt;
+&lt;p&gt;此“函数”类似于数学中的函数（强调做什么），只要输入的数据一致返回的结果也是一致的&lt;/p&gt;
+&lt;p&gt;可以用于替代某些匿名内部类对象，从而让程序更简洁，可读性更好。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day08 接口和面向对象编程</title>
+      <link>https://wqnm1gb.github.io/posts/day08-%E6%8E%A5%E5%8F%A3%E5%92%8C%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/</link>
+      <pubDate>Sat, 08 Feb 2025 10:42:46 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day08-%E6%8E%A5%E5%8F%A3%E5%92%8C%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/</guid>
+      <description>&lt;h2 id=&#34;接口&#34;&gt;接口&lt;/h2&gt;
+&lt;p&gt;Java提供了一个关键字interface定义出接口&lt;/p&gt;
+&lt;p&gt;JDK8之前，接口只能定义常量和抽象方法&lt;/p&gt;
+&lt;p&gt;接口中定义常量，可以省略public static final不写，默认会加上去&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day07 多态和面向对象编程</title>
+      <link>https://wqnm1gb.github.io/posts/day07-%E5%A4%9A%E6%80%81%E5%92%8C%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/</link>
+      <pubDate>Sat, 08 Feb 2025 10:40:42 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day07-%E5%A4%9A%E6%80%81%E5%92%8C%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/</guid>
+      <description>&lt;h2 id=&#34;多态&#34;&gt;多态&lt;/h2&gt;
+&lt;p&gt;有对象多态，行为多态&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;编译看左，运行看右&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;h3 id=&#34;多态的前提&#34;&gt;多态的前提&lt;/h3&gt;
+&lt;p&gt;有&lt;!-- raw HTML omitted --&gt;继承/实现&lt;!-- raw HTML omitted --&gt;关系，存在父类引用子类对象，存在&lt;!-- raw HTML omitted --&gt;方法重写&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day06 继承</title>
+      <link>https://wqnm1gb.github.io/posts/day06-%E7%BB%A7%E6%89%BF/</link>
+      <pubDate>Sat, 08 Feb 2025 10:39:21 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day06-%E7%BB%A7%E6%89%BF/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;不仅会退出循环，还会&lt;!-- raw HTML omitted --&gt;结束整个方法的执行&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;比如说匹配id的时候，找到id就直接退出方法，没找到id的话在循环语句后边还会有一个没找到id的提示&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day05 面向对象编程</title>
+      <link>https://wqnm1gb.github.io/posts/day05-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/</link>
+      <pubDate>Thu, 02 Jan 2025 21:31:07 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day05-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/</guid>
+      <description>&lt;h2 id=&#34;对象&#34;&gt;对象&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;对象是一种特殊的数据结构，可以用来记住一个事物的数据，从而代表该事物&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1、先设计一个对象的模板，也就是对象的设计图：类&lt;/p&gt;
+&lt;p&gt;2、通过new关键字，每new一次就得到一个新的对象&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day04 数组和方法</title>
+      <link>https://wqnm1gb.github.io/posts/day04-%E6%95%B0%E7%BB%84%E5%92%8C%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Thu, 02 Jan 2025 21:30:29 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day04-%E6%95%B0%E7%BB%84%E5%92%8C%E6%96%B9%E6%B3%95/</guid>
+      <description>&lt;h2 id=&#34;无限循环&#34;&gt;无限循环&lt;/h2&gt;
+&lt;p&gt;无限循环下边不能再写其他的代码了，因为执行不到了&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;//for格式的无限循环&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(;;){&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;//while格式的无限循环&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;while&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;){&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;continue和break&#34;&gt;continue和break&lt;/h2&gt;
+&lt;p&gt;continue：跳过本次循环，继续执行下次循环&lt;/p&gt;
+&lt;p&gt;break：结束整个循环&lt;/p&gt;
+&lt;h2 id=&#34;random类&#34;&gt;Random类&lt;/h2&gt;
+&lt;p&gt;使用步骤：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day03 循环语句</title>
+      <link>https://wqnm1gb.github.io/posts/day03-%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5/</link>
+      <pubDate>Thu, 02 Jan 2025 21:27:21 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day03-%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5/</guid>
+      <description>&lt;h2 id=&#34;if的注意点&#34;&gt;if的注意点&lt;/h2&gt;
+&lt;p&gt;1、在语句中，如果只有一句代码，那么大括号可以省略不写&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;a&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;100&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;//这不算是一句代码，算是两句代码，一句是定义变量a，另一句是赋值&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;2、如果对一个布尔类型的变量进行判断，不要使用==号，直接把变量写在小括号中&lt;/p&gt;
+&lt;h2 id=&#34;switch语句&#34;&gt;switch语句&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;switch&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;表达式&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;){&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;case&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;值1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;         &lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;//case后边的值只能是字面量，不能是变量&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;语句体1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;break&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;case&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;值2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;语句体2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;break&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;...&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;default&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;语句体n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;break&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;default可以省略，语法不会有问题，但是不建议省略，default可以放在程序的任意位置&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day02 数据类型和运算符</title>
+      <link>https://wqnm1gb.github.io/posts/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/</link>
+      <pubDate>Thu, 02 Jan 2025 21:22:38 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day02-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%BF%90%E7%AE%97%E7%AC%A6/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;1、基本数据类型&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;数据类型&lt;/th&gt;
+          &lt;th&gt;关键字&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;整数&lt;/td&gt;
+          &lt;td&gt;byte&lt;/td&gt;
+          &lt;td&gt;1&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;short&lt;/td&gt;
+          &lt;td&gt;2&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;int&lt;/td&gt;
+          &lt;td&gt;4&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;long&lt;/td&gt;
+          &lt;td&gt;8&lt;!-- raw HTML omitted --&gt;在数据值后边加一个L作为后缀，建议使用大写的L&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;浮点数&lt;/td&gt;
+          &lt;td&gt;float&lt;/td&gt;
+          &lt;td&gt;4&lt;!-- raw HTML omitted --&gt;数据值后边也需要加一个F作为后缀&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;double&lt;/td&gt;
+          &lt;td&gt;8&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;字符&lt;/td&gt;
+          &lt;td&gt;char&lt;/td&gt;
+          &lt;td&gt;2&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;布尔&lt;/td&gt;
+          &lt;td&gt;boolean&lt;/td&gt;
+          &lt;td&gt;1&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;整数和小数取值范围大小关系：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day01 Java基础</title>
+      <link>https://wqnm1gb.github.io/posts/day01-java%E5%9F%BA%E7%A1%80/</link>
+      <pubDate>Thu, 02 Jan 2025 07:07:07 +0100</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day01-java%E5%9F%BA%E7%A1%80/</guid>
+      <description>&lt;p&gt;cmd默认操作的是用户命名的文件夹（C:\users\用户名）&lt;/p&gt;
+&lt;p&gt;盘符名称 + : 能够切换到这个盘符&lt;/p&gt;
+&lt;p&gt;dir 查询该目录下的所有文件&lt;/p&gt;
+&lt;p&gt;window下的文件分隔符是\ 注意与Linux下的/ 不同&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
