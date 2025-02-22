@@ -9,7 +9,7 @@
       <url>https://wqnm1gb.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://wqnm1gb.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.143.1</generator>
+    <generator>Hugo -- 0.144.2</generator>
     <language>zh</language>
     <lastBuildDate>Sat, 08 Feb 2025 10:47:42 +0800</lastBuildDate>
     <atom:link href="https://wqnm1gb.github.io/tags/java%E5%9F%BA%E7%A1%80/index.xml" rel="self" type="application/rss+xml" />
@@ -88,7 +88,7 @@
       <link>https://wqnm1gb.github.io/posts/day12-mapstream%E6%B5%81/</link>
       <pubDate>Sat, 08 Feb 2025 10:45:31 +0800</pubDate>
       <guid>https://wqnm1gb.github.io/posts/day12-mapstream%E6%B5%81/</guid>
-      <description>&lt;h3 id=&#34;set系列集合添加的元素是font-stylebackground-colorfbde28无序不重复无索引font&#34;&gt;Set系列集合：添加的元素是&lt;!-- raw HTML omitted --&gt;无序、不重复、无索引&lt;!-- raw HTML omitted --&gt;&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;set系列集合添加的元素是无序不重复无索引&#34;&gt;Set系列集合：添加的元素是&lt;!-- raw HTML omitted --&gt;无序、不重复、无索引&lt;!-- raw HTML omitted --&gt;&lt;/h3&gt;
 &lt;p&gt;HashSet： &lt;!-- raw HTML omitted --&gt;无序&lt;!-- raw HTML omitted --&gt;、不重复、无索引&lt;/p&gt;
 &lt;p&gt;LinkedHashSet： &lt;!-- raw HTML omitted --&gt;有序&lt;!-- raw HTML omitted --&gt;、不重复、无索引&lt;/p&gt;</description>
     </item>
