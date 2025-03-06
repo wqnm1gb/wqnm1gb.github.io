@@ -9,16 +9,210 @@
       <url>https://wqnm1gb.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://wqnm1gb.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.144.2</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 22 Feb 2025 10:25:13 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 10:13:51 +0800</lastBuildDate>
     <atom:link href="https://wqnm1gb.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hugo个人博客</title>
+      <link>https://wqnm1gb.github.io/posts/hugo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Thu, 06 Mar 2025 10:13:51 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/hugo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;+++&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;My&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;First&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Post&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;date&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;2024&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;01&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;14T07&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;07&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;07&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;01&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;00&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;draft&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+++&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;创建文章都会有一个配置文件，里边的内容draft是草稿的意思，如果已经正式确定了，就可以吧draft改成false&lt;/p&gt;
+&lt;p&gt;使用hugo -D 可以生成public文件夹，这里边的是静态页面资源，也就是网站打开的内容，我们的网站内容就在这里边&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day15 前端开发</title>
+      <link>https://wqnm1gb.github.io/posts/day15%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/</link>
+      <pubDate>Thu, 06 Mar 2025 10:12:55 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day15%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/</guid>
+      <description>&lt;h1 id=&#34;vue&#34;&gt;Vue&lt;/h1&gt;
+&lt;p&gt;Vue 是一款用于构建用户界面的渐进式的JavaScript框架。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://wqnm1gb.github.io/images/Day15%e5%89%8d%e7%ab%af%e5%bc%80%e5%8f%91.assets/1736298344715-9f650ce4-d600-4c62-8c7f-b81da3737a53.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Vue是一个框架，也是一个生态&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://wqnm1gb.github.io/images/Day15%e5%89%8d%e7%ab%af%e5%bc%80%e5%8f%91.assets/1736298392083-fb9929a1-8955-4d3a-b289-66b994c9a712.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;可以选几个模块来用，也可也全选来做整站开发&lt;/p&gt;
+&lt;h1 id=&#34;vue工程化&#34;&gt;Vue工程化&lt;/h1&gt;
+&lt;p&gt;模块化：项目划分若干模块，单独开发、维护，提高效率&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day16 前端Web实战</title>
+      <link>https://wqnm1gb.github.io/posts/day16%E5%89%8D%E7%AB%AFweb%E5%AE%9E%E6%88%98/</link>
+      <pubDate>Thu, 06 Mar 2025 10:12:24 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day16%E5%89%8D%E7%AB%AFweb%E5%AE%9E%E6%88%98/</guid>
+      <description>&lt;h1 id=&#34;前后端开发模式&#34;&gt;前后端开发模式&lt;/h1&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://wqnm1gb.github.io/images/Day16%e5%89%8d%e7%ab%afWeb%e5%ae%9e%e6%88%98.assets/1737338561934-862cfbc3-41b6-42bf-b956-029a05e70197-20250224210317351.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;整体布局&#34;&gt;整体布局&lt;/h1&gt;
+&lt;p&gt;一个vue项目，首先是从main.js开始的&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://wqnm1gb.github.io/images/Day16%e5%89%8d%e7%ab%afWeb%e5%ae%9e%e6%88%98.assets/1737338801330-0204132c-6b60-4b48-bde1-9e20047c4626.png&#34; alt=&#34;&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://wqnm1gb.github.io/images/Day16%e5%89%8d%e7%ab%afWeb%e5%ae%9e%e6%88%98.assets/1737338816071-9f93e2ba-e801-4172-8b0a-f4c499f4a7db.png&#34; alt=&#34;&#34;  /&gt;
+@代表的是在src目录下查找&lt;/p&gt;
+&lt;h2 id=&#34;container布局容器&#34;&gt;Container布局容器&lt;/h2&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;：外层容器。&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;：顶栏容器。&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;：侧边栏容器。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day14 Spring-原理</title>
+      <link>https://wqnm1gb.github.io/posts/day14spring-%E5%8E%9F%E7%90%86/</link>
+      <pubDate>Thu, 06 Mar 2025 10:11:11 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day14spring-%E5%8E%9F%E7%90%86/</guid>
+      <description>&lt;h1 id=&#34;springboot原理&#34;&gt;SpringBoot原理&lt;/h1&gt;
+&lt;h2 id=&#34;配置优先级&#34;&gt;配置优先级&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://wqnm1gb.github.io/images/Day14Spring-%e5%8e%9f%e7%90%86.assets/1735439988115-b6256d2b-42e0-498c-bf99-d470cad28ad5.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;虽然springboot支持多种格式配置文件，但是在项目开发时，推荐统一使用一种格式的配置 （yml是主流）&lt;/p&gt;
+&lt;p&gt;SpringBoot 除了支持配置文件属性配置，还支持&lt;strong&gt;Java系统属性和命令行参数&lt;/strong&gt;的方式进行属性配置。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day13 Spring-AOP</title>
+      <link>https://wqnm1gb.github.io/posts/day13spring-aop/</link>
+      <pubDate>Thu, 06 Mar 2025 10:10:36 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day13spring-aop/</guid>
+      <description>&lt;h1 id=&#34;什么是aop&#34;&gt;什么是AOP？&lt;/h1&gt;
+&lt;p&gt;**AOP：**Aspect Oriented Programming（面向&lt;!-- raw HTML omitted --&gt;切面&lt;!-- raw HTML omitted --&gt;编程、面向方面编程），可简单理解为就是面向特定方法编程。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day12 后端Web实战（登录认证）</title>
+      <link>https://wqnm1gb.github.io/posts/day12%E5%90%8E%E7%AB%AFweb%E5%AE%9E%E6%88%98%E7%99%BB%E5%BD%95%E8%AE%A4%E8%AF%81/</link>
+      <pubDate>Thu, 06 Mar 2025 10:10:08 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day12%E5%90%8E%E7%AB%AFweb%E5%AE%9E%E6%88%98%E7%99%BB%E5%BD%95%E8%AE%A4%E8%AF%81/</guid>
+      <description>&lt;h1 id=&#34;登录功能&#34;&gt;登录功能&lt;/h1&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://wqnm1gb.github.io/images/Day12%e5%90%8e%e7%ab%afWeb%e5%ae%9e%e6%88%98%ef%bc%88%e7%99%bb%e5%bd%95%e8%ae%a4%e8%af%81%ef%bc%89.assets/1734842185377-afcbdfcd-b857-4293-bfd7-949c29c1c2d8.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;controller层&#34;&gt;Controller层&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;//    接收登录信息&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nd&#34;&gt;@PostMapping&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/login&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;kd&#34;&gt;public&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Result&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;login&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nd&#34;&gt;@RequestBody&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Emp&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;emp&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;info&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;员工登录：{}&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;emp&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;LoginInfo&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;loginInfo&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;empService&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;login&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;emp&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;loginInfo&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;!=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;null&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;            &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;return&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Result&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;success&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;else&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;            &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;return&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Result&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;error&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;用户名或密码错误&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;返回的信息中有token，最好重新定一个专门用来返回的类，不要直接使用Emp&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day11 后端Web实战（班级学员）</title>
+      <link>https://wqnm1gb.github.io/posts/day11%E5%90%8E%E7%AB%AFweb%E5%AE%9E%E6%88%98%E7%8F%AD%E7%BA%A7%E5%AD%A6%E5%91%98/</link>
+      <pubDate>Thu, 06 Mar 2025 10:09:37 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day11%E5%90%8E%E7%AB%AFweb%E5%AE%9E%E6%88%98%E7%8F%AD%E7%BA%A7%E5%AD%A6%E5%91%98/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Controller层接收参数的时候需不需要加@RequestBody？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果是接受的Json格式的数据，那么需要加，如果是接受GET的参数，即使是接受到类里，也可以不用加&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day10 后端Web实战（员工管理）</title>
+      <link>https://wqnm1gb.github.io/posts/day10%E5%90%8E%E7%AB%AFweb%E5%AE%9E%E6%88%98%E5%91%98%E5%B7%A5%E7%AE%A1%E7%90%86/</link>
+      <pubDate>Thu, 06 Mar 2025 10:08:55 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day10%E5%90%8E%E7%AB%AFweb%E5%AE%9E%E6%88%98%E5%91%98%E5%B7%A5%E7%AE%A1%E7%90%86/</guid>
+      <description>&lt;h1 id=&#34;删除员工&#34;&gt;删除员工&lt;/h1&gt;
+&lt;p&gt;删除员工基本信息的时候，也要删除员工的&lt;strong&gt;工作经历&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;各层的职责&#34;&gt;各层的职责&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://wqnm1gb.github.io/images/Day10%e5%90%8e%e7%ab%afWeb%e5%ae%9e%e6%88%98%ef%bc%88%e5%91%98%e5%b7%a5%e7%ae%a1%e7%90%86%ef%bc%89.assets/1734397133960-7907666e-107f-466c-83b7-767b1af6e49c.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;controller层&#34;&gt;Controller层&lt;/h2&gt;
+&lt;p&gt;接收请求参数：DELETE /emps?ids=1,2,3&lt;/p&gt;
+&lt;h3 id=&#34;方式1通过数组来接收&#34;&gt;方式1：通过数组来接收&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nd&#34;&gt;@DeleteMapping&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;kd&#34;&gt;public&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Result&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;delete&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Integer&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;[]&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ids&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;){&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;// 通过数组的方式接收参数&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;info&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;要删除的id是{}&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Arrays&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;toString&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ids&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;));&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;return&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Result&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;success&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;方式2通过集合来接收&#34;&gt;方式2：通过集合来接收&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nd&#34;&gt;@DeleteMapping&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;kd&#34;&gt;public&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Result&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;delete&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nd&#34;&gt;@RequestParam&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;List&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Integer&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ids&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;){&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;// 通过数组的方式接收参数&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;info&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;要删除的id是{}&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ids&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;return&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Result&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;success&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;如果想让前端传过来的参数保存到像list这样比较复杂的类型中，需要加上@RequestParam修饰&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day09 后端Web实战（员工管理）</title>
+      <link>https://wqnm1gb.github.io/posts/day09%E5%90%8E%E7%AB%AFweb%E5%AE%9E%E6%88%98%E5%91%98%E5%B7%A5%E7%AE%A1%E7%90%86/</link>
+      <pubDate>Thu, 06 Mar 2025 10:07:18 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day09%E5%90%8E%E7%AB%AFweb%E5%AE%9E%E6%88%98%E5%91%98%E5%B7%A5%E7%AE%A1%E7%90%86/</guid>
+      <description>&lt;h1 id=&#34;新增员工&#34;&gt;新增员工&lt;/h1&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://wqnm1gb.github.io/images/Day09%e5%90%8e%e7%ab%afWeb%e5%ae%9e%e6%88%98%ef%bc%88%e5%91%98%e5%b7%a5%e7%ae%a1%e7%90%86%ef%bc%89.assets/1734051333476-6c2aeeae-d132-4863-84b7-12863c88958b.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;controller层&#34;&gt;Controller层&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nd&#34;&gt;@PostMapping&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;kd&#34;&gt;public&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Result&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;add&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nd&#34;&gt;@RequestBody&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Emp&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;emp&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;){&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;// RequestBody用于接收Json格式的数据&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;info&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;新增的员工数据是{}&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;emp&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;empService&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;add&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;emp&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;return&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Result&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;success&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Controller层只负责接收前端传来的Json格式的信息，接收之后把信息发给Service层进行进一步的操作，这层中不需要分隔出基本员工信息和员工工作经历&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day08 后端Web实战（员工管理）</title>
+      <link>https://wqnm1gb.github.io/posts/day08%E5%90%8E%E7%AB%AFweb%E5%AE%9E%E6%88%98%E5%91%98%E5%B7%A5%E7%AE%A1%E7%90%86/</link>
+      <pubDate>Thu, 06 Mar 2025 10:06:07 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day08%E5%90%8E%E7%AB%AFweb%E5%AE%9E%E6%88%98%E5%91%98%E5%B7%A5%E7%AE%A1%E7%90%86/</guid>
+      <description>&lt;h1 id=&#34;多表关系&#34;&gt;多表关系&lt;/h1&gt;
+&lt;p&gt;项目开发中，在进行数据库表结构设计时，会根据业务需求及业务模块之间的关系，分析并设计表结构。由于业务之间相互关联，所以各个表结构之间也存在着各种联系。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day07 后端Web实战（部门管理）</title>
+      <link>https://wqnm1gb.github.io/posts/day07%E5%90%8E%E7%AB%AFweb%E5%AE%9E%E6%88%98%E9%83%A8%E9%97%A8%E7%AE%A1%E7%90%86/</link>
+      <pubDate>Thu, 06 Mar 2025 10:05:28 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day07%E5%90%8E%E7%AB%AFweb%E5%AE%9E%E6%88%98%E9%83%A8%E9%97%A8%E7%AE%A1%E7%90%86/</guid>
+      <description>&lt;h1 id=&#34;开发规范&#34;&gt;开发规范&lt;/h1&gt;
+&lt;h2 id=&#34;前后端分离开发&#34;&gt;前后端分离开发&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://wqnm1gb.github.io/images/Day07%e5%90%8e%e7%ab%afWeb%e5%ae%9e%e6%88%98%ef%bc%88%e9%83%a8%e9%97%a8%e7%ae%a1%e7%90%86%ef%bc%89.assets/1733106041883-ae50ca98-077f-4fca-8d85-f63a67e1b6e3.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;具体的开发流程&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://wqnm1gb.github.io/images/Day07%e5%90%8e%e7%ab%afWeb%e5%ae%9e%e6%88%98%ef%bc%88%e9%83%a8%e9%97%a8%e7%ae%a1%e7%90%86%ef%bc%89.assets/1733106103374-a306fb38-330f-4082-8f06-c4285c961d85.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;前端开发的服务部署在Nginx服务器上边，后端开发的服务部署在Tomcat服务器上边&lt;/p&gt;
+&lt;h2 id=&#34;rest风格&#34;&gt;Rest风格&lt;/h2&gt;
+&lt;p&gt;REST （REpresentational state Transfer），表述性状态转换，它是一种软件架构风格。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day06 Java操作数据库</title>
+      <link>https://wqnm1gb.github.io/posts/day06java%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93/</link>
+      <pubDate>Thu, 06 Mar 2025 10:04:18 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day06java%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://wqnm1gb.github.io/images/Day06Java%e6%93%8d%e4%bd%9c%e6%95%b0%e6%8d%ae%e5%ba%93.assets/1732677227599-0381eba1-2488-49b4-bc90-da0c210c5184-20250224204816892.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;jdbc介绍&#34;&gt;JDBC介绍&lt;/h1&gt;
+&lt;p&gt;JDBC：（Java DataBase Connectivity），就是使用Java语言操作关系型数据库的一套API。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://wqnm1gb.github.io/images/Day06Java%e6%93%8d%e4%bd%9c%e6%95%b0%e6%8d%ae%e5%ba%93.assets/1732677291127-ec2b62db-0dd9-4bc3-975b-d5ecede913a0-20250224204828000.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://wqnm1gb.github.io/images/Day06Java%e6%93%8d%e4%bd%9c%e6%95%b0%e6%8d%ae%e5%ba%93.assets/1732677303807-db1a055a-36a9-4140-a5d5-fa7476415b9a-20250224204830135.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;本质：&lt;/p&gt;
+&lt;p&gt;• sun公司官方定义的一套操作所有关系型数据库的规范，即接口。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day05 MySQL数据库</title>
+      <link>https://wqnm1gb.github.io/posts/day05mysql%E6%95%B0%E6%8D%AE%E5%BA%93/</link>
+      <pubDate>Thu, 06 Mar 2025 10:03:40 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day05mysql%E6%95%B0%E6%8D%AE%E5%BA%93/</guid>
+      <description>&lt;p&gt;MySQL的连接&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-plain&#34; data-lang=&#34;plain&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;// 其中-h和-P是可选的，如果不指定，那么默认就是本机的3306端口
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;mysql [-h数据库服务器的IP地址 -P端口号] -u用户名 -p密码
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;mysql数据模型&#34;&gt;MySQL数据模型&lt;/h1&gt;
+&lt;p&gt;关系型数据库：建立在关系模型基础上，由多张相互连接的&lt;!-- raw HTML omitted --&gt;二维表&lt;!-- raw HTML omitted --&gt;组成的数据库。&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Day04 Web基础</title>
-      <link>https://wqnm1gb.github.io/posts/day04-web%E5%9F%BA%E7%A1%80/</link>
-      <pubDate>Sat, 22 Feb 2025 10:25:13 +0800</pubDate>
-      <guid>https://wqnm1gb.github.io/posts/day04-web%E5%9F%BA%E7%A1%80/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;Day04%20Web%e5%9f%ba%e7%a1%80.assets/1731977559201-73e5a329-2595-4cae-bff1-05bfe1edee42.png&#34; alt=&#34;&#34;  /&gt;
+      <link>https://wqnm1gb.github.io/posts/day04web%E5%9F%BA%E7%A1%80/</link>
+      <pubDate>Thu, 06 Mar 2025 10:02:42 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day04web%E5%9F%BA%E7%A1%80/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://wqnm1gb.github.io/images/Day04Web%e5%9f%ba%e7%a1%80.assets/1731977559201-73e5a329-2595-4cae-bff1-05bfe1edee42-20250224204642352.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;h1 id=&#34;springboot-web入门&#34;&gt;SpringBoot Web入门&lt;/h1&gt;
 &lt;h2 id=&#34;spring&#34;&gt;Spring&lt;/h2&gt;
@@ -27,9 +221,9 @@
     </item>
     <item>
       <title>Day03 Web后端基础</title>
-      <link>https://wqnm1gb.github.io/posts/day03-web%E5%90%8E%E7%AB%AF%E5%9F%BA%E7%A1%80/</link>
-      <pubDate>Sat, 22 Feb 2025 10:15:06 +0800</pubDate>
-      <guid>https://wqnm1gb.github.io/posts/day03-web%E5%90%8E%E7%AB%AF%E5%9F%BA%E7%A1%80/</guid>
+      <link>https://wqnm1gb.github.io/posts/day03web%E5%90%8E%E7%AB%AF%E5%9F%BA%E7%A1%80/</link>
+      <pubDate>Thu, 06 Mar 2025 10:01:38 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day03web%E5%90%8E%E7%AB%AF%E5%9F%BA%E7%A1%80/</guid>
       <description>&lt;h1 id=&#34;maven&#34;&gt;Maven&lt;/h1&gt;
 &lt;p&gt;Maven是一款用于&lt;!-- raw HTML omitted --&gt;管理和构建Java项目&lt;!-- raw HTML omitted --&gt;的工具，是apache旗下的一个开源项目。&lt;/p&gt;
 &lt;h2 id=&#34;maven的作用&#34;&gt;Maven的作用&lt;/h2&gt;
@@ -38,17 +232,17 @@
     </item>
     <item>
       <title>Day02 JS&amp;Vue&amp;Ajax</title>
-      <link>https://wqnm1gb.github.io/posts/day02-jsvueajax/</link>
-      <pubDate>Sat, 22 Feb 2025 10:13:39 +0800</pubDate>
-      <guid>https://wqnm1gb.github.io/posts/day02-jsvueajax/</guid>
+      <link>https://wqnm1gb.github.io/posts/day02jsvueajax/</link>
+      <pubDate>Thu, 06 Mar 2025 10:00:36 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day02jsvueajax/</guid>
       <description>&lt;h1 id=&#34;javascript&#34;&gt;JavaScript&lt;/h1&gt;
 &lt;p&gt;Javascript（简称：Js）是一门跨平台、&lt;!-- raw HTML omitted --&gt;面向对象&lt;!-- raw HTML omitted --&gt;的脚本语言，是用来控制网页行为，实现页面的交互效果。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Day01 html&amp;css</title>
-      <link>https://wqnm1gb.github.io/posts/day01-htmlcss/</link>
-      <pubDate>Sat, 22 Feb 2025 10:11:29 +0800</pubDate>
-      <guid>https://wqnm1gb.github.io/posts/day01-htmlcss/</guid>
+      <link>https://wqnm1gb.github.io/posts/day01htmlcss/</link>
+      <pubDate>Mon, 24 Feb 2025 20:37:45 +0800</pubDate>
+      <guid>https://wqnm1gb.github.io/posts/day01htmlcss/</guid>
       <description>&lt;p&gt;Web的三个组成部分：&lt;/p&gt;
 &lt;p&gt;• HTML：负责网页的结构（页面元素和内容）。&lt;/p&gt;
 &lt;p&gt;• CSS：负责网页的表现（页面元素的外观、位置等页面样式，如：颜色、大小等）。&lt;/p&gt;</description>
@@ -390,24 +584,6 @@
       <pubDate>Tue, 31 Dec 2024 11:20:54 +0800</pubDate>
       <guid>https://wqnm1gb.github.io/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
       <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World！&lt;/h1&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://wqnm1gb.github.io/posts/day05-mysql%E6%95%B0%E6%8D%AE%E5%BA%93/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wqnm1gb.github.io/posts/day05-mysql%E6%95%B0%E6%8D%AE%E5%BA%93/</guid>
-      <description>&lt;p&gt;MySQL的连接&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-plain&#34; data-lang=&#34;plain&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;// 其中-h和-P是可选的，如果不指定，那么默认就是本机的3306端口
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;mysql [-h数据库服务器的IP地址 -P端口号] -u用户名 -p密码
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;mysql数据模型&#34;&gt;MySQL数据模型&lt;/h1&gt;
-&lt;p&gt;关系型数据库：建立在关系模型基础上，由多张相互连接的&lt;!-- raw HTML omitted --&gt;二维表&lt;!-- raw HTML omitted --&gt;组成的数据库。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://wqnm1gb.github.io/posts/day06-java%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wqnm1gb.github.io/posts/day06-java%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93/</guid>
-      <description>&lt;p&gt;![](Day06 Java操作数据库.assets/1732677227599-0381eba1-2488-49b4-bc90-da0c210c5184.png)&lt;/p&gt;</description>
     </item>
     <item>
       <title>关于</title>
